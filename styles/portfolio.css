@@ -129,3 +129,27 @@ main section{
     border-radius: 5px;
     box-shadow: 0px 6px 12px 0px rgba(0, 0, 0, 0.06);
 }
+/* Experience Styles */
+.section_title{
+    text-align: center;
+}
+.resume_container{
+    display: flex;
+    gap: 24px;
+    
+}
+.experience_subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience_description, .experience_subtitle{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume_download_cv{
+    margin-top: 50px;
+}
+
